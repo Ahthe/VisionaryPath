@@ -1,4 +1,4 @@
-# Your Eyes: An AI-powered vision aid
+# Your Eyes: An AI-Powered Vision Aid
 
 [Click to watch Demo](https://youtu.be/1F4wq1y6iRo&t=80s)
 
